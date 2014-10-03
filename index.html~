@@ -22,35 +22,14 @@
         <header>
         <img src="./backpacking.jpg" height=300 width=300 alt="Suni" style="float:right;" />
           <h1>Aditya S. Khanna</h1>
-          <h2>University of Chicago</h2> <br>
+          <h2>University of Chicago</h2> 
           5841 S Maryland Ave MC 5065 <br>
-          Chicago IL 60637 <br>
+          Chicago IL 60637 <br> <br>
           akhanna at medcine.bsd.uchicago.edu <br>
           (773)834-5635 <br>
           </header>
 
 
-
-
-<!-- <table> -->
-<!-- <tr>	<td valign="top"><strong> Address </td><td></td> -->
-<!-- <td> 5841 S Maryland Ave -->
-<!-- <br /> Chicago IL 60637  <br />  </td></tr>  -->
-<!-- <tr></tr> -->
-<!-- <tr></tr> -->
-<!-- <tr><td><strong>  -->
-<!-- Affiliations</td><td></td><td><a href="http://www.cfr.washington.edu/">School of Environmental and Forest Science</a></td></tr> -->
-<!-- <tr><td></td><td></td><td><a href="http://http://www.pce.uw.edu/"> Professional and Continuing Education</a></td></tr> -->
-<!-- <tr><td></td><td></td><td>University of Washington, Seattle - Seattle, WA 98195</td></tr> -->
-<!-- <tr></tr> -->
-<!-- <tr></tr> -->
-<!-- <tr> <td><strong> Ph.D:</td><td></td><td> <a href="http://depts.washington.edu/qerm/"> QERM </a>, University of Washington, 2008</td></tr> -->
-<!-- </table>
- -->
-
-        <!-- <section id="downloads" class="clearfix"> -->
-        <!--   <a href="https://github.com/khanna7" id="view-on-github" class="button"><span>View on GitHub</span></a> -->
-        <!-- </section> -->
 
         <hr>
 
@@ -59,11 +38,9 @@
 <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Research</h3>
 
 <p>
-<!-- This automatic page generator is the easiest way to create --
-     -- beautiful pages for all of your projects. Author your page --
-     -- content here using GitHub Flavored Markdown, select a template --
-     -- crafted by a designer, and publish. After your page is --
-     -- generated, you can check out the new branch: -->
+I am a computational epidemiologist and statistician, currently at the 
+Chicago Center for HIV Elimination (CCHE)
+
 </p>
 
 <!-- <pre><code>$ cd your_repo_root/repo_name -->
@@ -88,14 +65,29 @@
 <a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Publications</h3>
 
 <p>
-<!-- If you prefer to not use the automatic generator, push a branch -->
-<!-- named <code>gh-pages</code> to your repository to create a page -->
-<!-- manually. In addition to supporting regular HTML content, GitHub Pages -->
-<!-- support Jekyll, a simple, blog aware static site generator written by -->
-<!-- our own Tom Preston-Werner. Jekyll makes it easy to create site-wide -->
-<!-- headers and footers without having to copy them across every page. It -->
-<!-- also offers intelligent blog support and other advanced templating -->
-<!-- features. -->
+<ol>
+    <li> <strong>Khanna AS</strong>, Goodreau SM, Gorbach PM, Daar E,
+    Little SJ. Modeling the impact of post-diagnosis behavior change
+    on HIV prevalence in Southern California men who have sex with men
+    (MSM). <em>AIDS Behav</em>. 2014 Aug;18(8):1523-31. doi:
+    10.1007/s10461-013-0646-2.</li> <br>
+
+    <li>Cassels S, Jenness SM, <strong>Khanna AS</strong>. Conceptual
+    Framework and Research Methods for Migration and HIV Transmission
+    Dynamics. <em>AIDS Behav</em>. 2013 Nov 21. [Epub ahead of print] </li> <br>
+
+    <li> <strong> Khanna AS</strong>, Dimitrov DT, Goodreau SM. What can mathematical
+    models tell us about the relationship between circular migrations
+    and HIV transmission dynamics? <em>Math Biosci Eng</em>. 2014 Oct 5;
+    11(5):1065-1090. doi: 10.3934/mbe.2014.11.1065</li> <br>
+
+    <li> <strong>Khanna AS</strong>, Goodreau SM, Wohlfeiler D, Daar E, Little
+    SJ, Gorbach PM. Individualized diagnosis interventions can add
+    significant effectiveness in reducing HIV incidence among men who
+    have sex with men (MSM):insights from Southern California. <em>Ann
+    Epidemiol</em>. Accepted. </li>
+
+  </ol>
 </p>
 
 <h3>
@@ -118,7 +110,7 @@
 <!-- <h3> -->
 <!-- <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3> -->
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+<!-- <p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p> -->
         </section>
 
         <footer>
