@@ -4,7 +4,8 @@ title: "VS Code, renv, and R Versions on OSCAR (Brown's HPC)"
 tags: [R, renv, VSCode, HPC]
 ---
 
-### Problem s
+## Problem 
+
 OSCAR recently upgraded to RHEL 9.6.
 
 I had to reinstall the r environment.
@@ -12,7 +13,7 @@ I had to reinstall the r environment.
 I thought it might be a good idea to additionally upgrade to r/4.5.1 since that is the default r on the system. And keeping pace with later R sometimes has downstream benefits (sometimes not).
 
 
-### Solution
+## Solution
 
 To do this correctly, remember to update the `launch_R.sh` ececutable file at `/oscar/home/akhann16/code/net-ergm-v4plus/launch_R.sh`.
 
