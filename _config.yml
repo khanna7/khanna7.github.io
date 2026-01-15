@@ -1,11 +1,4 @@
 title: "Aditya Khanna"
 description: "Blog Notes"
 theme: minima
-
-# Treat existing /posts folder as a posts collection
-collections:
-  posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:title/
-
-
+permalink: /blog/:year/:month/:day/:title/
