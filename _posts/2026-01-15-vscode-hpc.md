@@ -17,7 +17,7 @@ I thought it might be a good idea to additionally upgrade to r/4.5.1 since that 
 
 To do this correctly, remember to update the `launch_R.sh` ececutable file at `/oscar/home/akhann16/code/net-ergm-v4plus/launch_R.sh`.
 
-WHen upgrading the environment, the userterms packages may need to be installed locally ()
+When upgrading the environment, the userterms packages may need to be installed locally ()
 
 ```
 install.packages("/oscar/home/akhann16/code/net-ergm-v4plus/ergm.userterms.hepcep", type="source", repos=NULL)
@@ -58,4 +58,16 @@ exec R --no-save --no-restore "$@"
 ```
 
 
+### Note on Rglpk
 
+The package Rglpk is needed by ergm for some fitting routines. 
+
+I don't know if it is necessary for all ERGM estimation. But we have been using it for a while. 
+
+When the system upgrades, I have found that the `glpk` module must be loaded when installing Rglpk.
+
+Once Rglpk is installed, it does not appear to be required for every R session afterward.
+
+Therefore, the `glpk` module is not loaded in the vscode R launcher. 
+
+But, this is worth remembering if the `ergm` installation fails because of `Rglpk`.
