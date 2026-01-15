@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Notes on modeling, social science, computation and public health
 
 This is a public notebook where I write about

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why I’m keeping a public notebook"
+date: 2026-01-15
+---
+
 # Why I’m keeping a public notebook
 
 *January 15 2026*
