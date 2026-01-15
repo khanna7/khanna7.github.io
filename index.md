@@ -1,5 +1,6 @@
 ---
 layout: home
+title : ""
 ---
 
 # Notes on modeling, social science, computation and public health
