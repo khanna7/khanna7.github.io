@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "VS Code, renv, and R Versions on OSCAR (Brown's HPC)"
 date: 2026-01-15
 tags: [R, renv, VSCode, HPC]
