@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 # Notes on modeling, social science, computation and public health
@@ -11,7 +10,3 @@ in public health research.
 
 The emphasis is on how models behave in practice:
 what works, what breaks, and what assumptions matter.
-
-## Posts
-
-- [Why I’m keeping a public notebook](posts/2026-01-15-public-notebook.md)
